@@ -1,0 +1,15 @@
+d:\visulProjects\Assignmet1\obj\Debug\net6.0\Assignmet1.csproj.AssemblyReference.cache
+d:\visulProjects\Assignmet1\obj\Debug\net6.0\Assignmet1.GeneratedMSBuildEditorConfig.editorconfig
+d:\visulProjects\Assignmet1\obj\Debug\net6.0\Assignmet1.AssemblyInfoInputs.cache
+d:\visulProjects\Assignmet1\obj\Debug\net6.0\Assignmet1.AssemblyInfo.cs
+d:\visulProjects\Assignmet1\obj\Debug\net6.0\Assignmet1.csproj.CoreCompileInputs.cache
+d:\visulProjects\Assignmet1\bin\Debug\net6.0\Assignmet1.exe
+d:\visulProjects\Assignmet1\bin\Debug\net6.0\Assignmet1.deps.json
+d:\visulProjects\Assignmet1\bin\Debug\net6.0\Assignmet1.runtimeconfig.json
+d:\visulProjects\Assignmet1\bin\Debug\net6.0\Assignmet1.dll
+d:\visulProjects\Assignmet1\bin\Debug\net6.0\ref\Assignmet1.dll
+d:\visulProjects\Assignmet1\bin\Debug\net6.0\Assignmet1.pdb
+d:\visulProjects\Assignmet1\obj\Debug\net6.0\Assignmet1.dll
+d:\visulProjects\Assignmet1\obj\Debug\net6.0\ref\Assignmet1.dll
+d:\visulProjects\Assignmet1\obj\Debug\net6.0\Assignmet1.pdb
+d:\visulProjects\Assignmet1\obj\Debug\net6.0\Assignmet1.genruntimeconfig.cache
